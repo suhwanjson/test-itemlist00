@@ -1,0 +1,28 @@
+{
+  "products": {
+    "timestamp": 1579900378,
+    "nextPage": 2,
+    "itemList": [
+      {
+        "id": 34503463,
+        "type": "BANNER",
+        "url": "https://image11.coupangcdn.com/image/bannerunit/bannerunit_3ea5e3b8-76fc-4912-8ed9-5829e558c421.jpg",
+        "link": "https://www.coupang.com/np/promotion/56762"
+      },
+      {
+        "id": 23749273,
+        "type": "PRODUCT",
+        "thumbnail": "https://thumbnail11.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1012107513562-e687b1db-a6b8-4fdb-b72b-14131e8ee9c6.jpg",
+        "name": "곰곰 당도 선별 세척 사과",
+        "price": "8,880원"
+      },
+      {
+        "id": 12384639,
+        "type": "PRODUCT",
+        "thumbnail": "https://thumbnail11.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1012107513562-e687b1db-a6b8-4fdb-b72b-14131e8ee9c6.jpg",
+        "name": "마니커 바사삭 치킨",
+        "price": "12,640원"
+      }
+    ]
+  }
+}
